@@ -1,0 +1,97 @@
+.mypic img
+{
+    width: 200px;
+    height: auto;
+    margin-top: 130px;
+    margin-left: 20px;
+    background-color: lime;
+
+}
+
+.mypic:hover
+{
+    background-color: lightslategray;
+    transition: all 1s ease-in;
+}
+
+.lol
+{
+    border: black;
+}
+
+
+
+
+.lol
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+h1
+{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: -5px;
+    margin-right: 70px;
+    margin-left: 200px;
+ 
+    
+    border: 10px solid green;
+    background-color: dimgrey;
+   
+}
+
+h1:hover
+{
+    background-color: white;
+    transition: all 0.5s ease-in;
+}
+
+h2
+{
+    color: black;
+    margin-top: -300px;
+    margin-left: 30px;
+
+
+}
+
+h3
+{
+    border: 5px solid black;
+    background-color: lightgray;
+    margin-top: 27px;
+    margin-right: 100px;
+    margin-left: 300px;
+    font-size: 20px;
+    padding: 32px 32px;
+    
+}
+
+h3:hover
+{
+    background-color: lightgreen;
+    transition: all 0.5s ease-in;
+}
+
+
+h4
+{
+    border: 8px solid darkred;
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color: darkseagreen;
+  
+
+}
+
+h4:hover
+{
+    background-color: white;
+    transition: all 0.5s ease-in;
+}
